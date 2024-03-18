@@ -1,6 +1,9 @@
 # Stacking-Up-Dynamic-Programming-Approach-for-Robot-Wall-Climbing
  This project devises a dynamic programming solution for the Robot Stacking Problem. It formulates recurrence relations, handles base cases, and proposes a recursive approach. Time and space complexities are analyzed. Overall, it efficiently allocates robots into stacks, ensuring optimal distribution.
 
+Test files: input.txt, input2.txt.
+
+
 Solving the Robot Stacking Problem using Dynamic Programming
 1. Introduction
 This report presents an analysis of the dynamic programming approach applied to solve the Robot Stacking Problem. The aim was to develop a solution that efficiently distributes robots into stacks, considering various constraints.
